@@ -10,6 +10,8 @@ Mathur, D., Kaur, H., Dhall, A., Sharma, N., & Raghava, G. P. S. (2021).
 **SAPdb: A database of short peptides and the corresponding nanostructures formed by self-assembly.** *Computers in Biology and Medicine*, 133, 104391. 
 [https://doi.org/10.1016/j.compbiomed.2021.104391](https://doi.org/10.1016/j.compbiomed.2021.104391)
 
+This dataset can also be found on Zenodo at https://doi.org/10.5281/zenodo.20078457
+
 ## About the Database
 
 SAPdb was developed to provide a systematic collection of experimental data for the burgeoning field of peptide nanobiotechnology. Short peptides, specifically di- and tripeptides, are ideal building blocks for nanomaterials due to their low toxicity, cost-efficiency, and ease of synthesis. SAPdb consolidates scattered literature into a single platform to facilitate the rational design of diverse nanostructures.
